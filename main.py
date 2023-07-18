@@ -1,16 +1,12 @@
-# This is a sample Python script.
+import task_1
+import task_2
+import task_3
+import task_4
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    # task_1.fun_index_error()
+    # task_2.fun_input_user()
+    # task_3.fun_file_not_found_error()
+    task_4.fun_zero_division_error()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
