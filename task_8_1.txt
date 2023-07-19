@@ -1,0 +1,6 @@
+car
+phone
+laptop
+camera
+keyboard
+display
